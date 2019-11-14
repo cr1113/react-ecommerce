@@ -1,4 +1,4 @@
-const API_SERVER = 'http://54.180.132.240:5000'
+const API_SERVER = 'http://52.78.166.170:5000'
 
 const CONFIG = {
   EVENT_REGISTER: `${API_SERVER}/evetns/register`,
